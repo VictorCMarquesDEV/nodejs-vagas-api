@@ -46,5 +46,6 @@ http://localhost:3000/vagas
 
 ### Estrutura do Projeto
 * repositories: Contém o repositório das Vagas, além das operações CRUD - Create, Read, Update e Delete - responsáveis por manipular os dados do servidor local.
+* server.js: Arquivo principal da aplicação que inicia o servidor.
 
 # Use o código com cuidado!
